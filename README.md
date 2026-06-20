@@ -82,7 +82,7 @@ Video Link: https://shorturl.at/Pa4c7
 <img src="Screenshots/space-scene-1.png" width="700">
 <br>
 <br>
-<img src="Screenshots/spacescene-2.png" width="700">
+<img src="Screenshots/space-scene-2.png" width="700">
 
 ---
 
