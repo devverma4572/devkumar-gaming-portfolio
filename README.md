@@ -43,7 +43,10 @@ Repo Link: https://github.com/devverma4572/Horror-Game
 <img src="Screenshots/horror-survival-1.png" width="700">
 <br>
 <img src="Screenshots/horror-survival-2.png" width = "700">
-
+<br>
+<img src="Screenshots/horror-survival-3.png" width="700">
+<br>
+<img src="Screenshots/horror-survival-4.png" width = "700">
 ---
 
 ### 🐦 Flappy Bird Clone
