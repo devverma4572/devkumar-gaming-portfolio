@@ -36,9 +36,13 @@ Features:
 - Interactive Environment
 - Sound Effects
 
+Repo Link: https://github.com/devverma4572/Horror-Game
+
 📸 Screenshot:
 
 <img src="Screenshots/horror-survival-1.png" width="700">
+<br>
+<img src="Screenshots/horror-survival-2.png" width = "700">
 
 ---
 
@@ -51,9 +55,14 @@ Features:
 - Score Tracking
 - Responsive Controls
 
+Repo Link: https://github.com/devverma4572/Flappy-Bird-Game
+
+
 📸 Screenshot:
 
-<img src="Screenshots/flappybird-1.png" width="700">
+<img src="Screenshots/flappy-bird-1.png" width="700">
+
+
 
 ---
 
@@ -65,14 +74,19 @@ Features:
 - Animation
 - Camera Movement
 
-<img src="Screenshots/blender-scene.png" width="700">
+Video Link: https://shorturl.at/Pa4c7
+
+<img src="Screenshots/space-scene-1.png" width="700">
+<br>
+<br>
+<img src="Screenshots/spacescene-2.png" width="700">
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/kumardevvv
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/devverma5472
 
-Email: yourmail@gmail.com
+Email: kumardev4357@gmail.com
