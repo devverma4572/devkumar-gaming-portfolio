@@ -49,6 +49,34 @@ Repo Link: https://github.com/devverma4572/Horror-Game
 <img src="Screenshots/horror-survival-4.png" width = "700">
 ---
 
+### 👻 Maze Runner Game
+A 3D maze adventure game developed using Unity 3D and C#, where players control a ball navigating through a maze from a third-person perspective. The objective is to collect coins, avoid obstacles, and find the path to the exit.
+
+Features:
+- Third-Person Camera System
+- Physics-Based Ball Movement
+- Maze Exploration and Navigation
+- Coin Collection and Real-Time Score Tracking
+- Obstacle Collision Detection
+- Game Over Mechanics
+- Win Condition and Exit Detection
+- Interactive Environment
+- Responsive Controls
+- Optimized Gameplay Performance
+
+Repo Link: https://github.com/devverma4572/Maze-Runner-Game
+
+📸 Screenshot:
+
+<img src="Screenshots/mazerunner-1.png" width="700">
+<br>
+<img src="Screenshots/mazerunner-2.png" width = "700">
+<br>
+<img src="Screenshots/mazerunner-3.png" width="700">
+<br>
+<img src="Screenshots/mazerunner-4.png" width = "700">
+---
+
 ### 🐦 Flappy Bird Clone
 A 2D arcade game developed using Flutter and Flame Engine.
 
